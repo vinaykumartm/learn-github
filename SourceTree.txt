@@ -1,1 +1,2 @@
 Created new file via github to pull it from Source tree and view the same in local repository.
+edited this file and added this line via npp thru git bash
